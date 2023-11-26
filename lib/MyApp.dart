@@ -6,7 +6,7 @@ import 'screens/Login.dart';
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
-  // This widget is the root of your application.
+  
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -19,10 +19,7 @@ class MyApp extends StatelessWidget {
           builder: (context, snapshot) {
             //if (snapshot.hasData){
               return LoginPage();
-            //}
-            //else{
-
-            //}
+           
           }),
       debugShowCheckedModeBanner: false,
     );
