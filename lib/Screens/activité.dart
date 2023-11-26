@@ -76,7 +76,7 @@ class _HomePageState extends State<HomePage> {
                   },
                   style: ElevatedButton.styleFrom(
                     primary: selectedActivityCategory == 'chess'
-                        ? Colors.blueGrey // Active color
+                        ? Colors.blueGrey 
                         : Colors.blue,
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(8.0),
@@ -98,7 +98,7 @@ class _HomePageState extends State<HomePage> {
                   },
                   style: ElevatedButton.styleFrom(
                     primary: selectedActivityCategory == 'Toutes'
-                        ? Colors.blueGrey // Active color
+                        ? Colors.blueGrey 
                         : Colors.blue,
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(8.0),
@@ -252,7 +252,7 @@ class _HomePageState extends State<HomePage> {
 
           switch (index) {
             case 0:
-            // Vous pouvez naviguer vers la page d'activité ou effectuer toute autre action
+            
               break;
             case 1:
               Navigator.push(
@@ -297,14 +297,14 @@ class _HomePageState extends State<HomePage> {
             style: TextStyle(
               fontWeight: FontWeight.bold,
               fontSize: 16,
-              color: Colors.black, // Changer la couleur si nécessaire
+              color: Colors.black, 
             ),
           ),
           Text(
             value,
             style: TextStyle(
               fontSize: 16,
-              color: Colors.black87, // Changer la couleur si nécessaire
+              color: Colors.black87,
             ),
           ),
         ],
@@ -320,7 +320,7 @@ class _HomePageState extends State<HomePage> {
             style: TextStyle(
               fontWeight: FontWeight.bold,
               fontSize: 20,
-              color: Colors.blue, // Changer la couleur si nécessaire
+              color: Colors.blue, 
             ),
           ),
           content: Column(
@@ -348,7 +348,7 @@ class _HomePageState extends State<HomePage> {
                 height: 200,
                 fit: BoxFit.cover,
               )
-                  : Container(), // Ajout de la condition pour éviter une erreur si l'image est vide
+                  : Container(), 
             ],
           ),
           actions: [
@@ -360,7 +360,7 @@ class _HomePageState extends State<HomePage> {
                 'Fermer',
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
-                  color: Colors.blue, // Changer la couleur si nécessaire
+                  color: Colors.blue, 
                 ),
               ),
             ),
