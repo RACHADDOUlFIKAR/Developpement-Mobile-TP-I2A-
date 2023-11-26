@@ -72,7 +72,7 @@ L'intégration de Firebase dans notre application a permis une gestion efficace 
 
 ### 2.7. Fonctionnalités supplémentaires
 
-En enrichissant notre application, nous avons intégré des fonctionnalités supplémentaires pour répondre aux besoins spécifiques des utilisateurs. L'une de ces fonctionnalités est l'ajout d'un bouton de déconnexion, offrant aux utilisateurs la possibilité de se déconnecter rapidement et en toute sécurité. De plus, nous avons rendu la page responsive, garantissant une expérience utilisateur optimale, quel que soit le périphérique utilisé. Cette approche responsive permet une adaptation dynamique de l'interface utilisateur, assurant une navigation fluide et une lisibilité optimale sur une variété d'appareils, des smartphones aux tablettes. Ces améliorations contribuent à une application plus polyvalente et conviviale.
+En enrichissant notre application, nous avons intégré des fonctionnalités supplémentaires pour répondre aux besoins spécifiques des utilisateurs. L'une de ces fonctionnalités est l'ajout d'un bouton de déconnexion, offrant aux utilisateurs la possibilité de se déconnecter rapidement. De plus, nous avons rendu la page responsive, garantissant une expérience utilisateur optimale, quel que soit le périphérique utilisé. Cette approche responsive permet une adaptation dynamique de l'interface utilisateur, assurant une navigation fluide et une lisibilité optimale sur une variété d'appareils, des smartphones aux tablettes. Ces améliorations contribuent à une application plus polyvalente et conviviale.
 
 <img src="https://github.com/RACHADDOUlFIKAR/Developpement-Mobile-TP-I2A-/assets/97551741/9d4c40ae-7344-42ea-b694-3b5a5b6fa02c" width="500" />
 
