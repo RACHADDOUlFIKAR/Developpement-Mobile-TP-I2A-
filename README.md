@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-L'objectif de ce TP est de développer une application proposant des activités de groupe en suivant la méthodologie agile et en définissant un MVP. La notation est basée sur le développement du MVP, l'intégration de l'IA, la qualité du code, le design de l'application et des fonctionnalités supplémentaires.
+En mettant l'accent sur la création d'une application offrant des activités de groupe, ce TP vise à suivre la méthodologie agile et à établir un MVP. L'évaluation porte sur divers aspects, dont le développement du MVP, l'intégration de l'IA, la qualité du code, le design de l'application, ainsi que l'implémentation de fonctionnalités supplémentaires. Cela offre une expérience complète en matière de développement d'applications mobiles.
 
 ## 2. Développement
 <h5> Informations de connexion pour les tests :</h5>
