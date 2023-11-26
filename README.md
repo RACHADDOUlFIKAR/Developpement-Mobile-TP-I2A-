@@ -79,4 +79,4 @@ En enrichissant notre application, nous avons intégré des fonctionnalités sup
 
 ### Conclusion
 
-Ce TP encourage le développement d'une application MVP fonctionnelle tout en intégrant des éléments tels que l'IA, la qualité du code, le design, et des fonctionnalités supplémentaires, reflétant ainsi les pratiques actuelles dans le domaine du développement d'applications mobiles.
+Ce TP encourage le développement d'une application MVP fonctionnelle tout en intégrant des éléments tels que l'IA, la qualité du code, le design, reflétant ainsi les pratiques actuelles dans le domaine du développement d'applications mobiles.
