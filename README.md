@@ -22,8 +22,7 @@ En tant qu'utilisateur, je peux me connecter à l'application avec une interface
 
 ### 2.2. US#2 : Liste des activités
 
-En conclusion, ce TP a stimulé la création d'une application MVP opérationnelle en incorporant des composants tels que l'intelligence artificielle, la qualité du code, le design, ainsi que des fonctionnalités additionnelles. Ces éléments reflètent les normes actuelles du développement d'applications mobiles.
-
+La page des activités, accessible après la connexion, présente une liste exhaustive grâce à une BottomNavigationBar. Chaque activité est détaillée avec des informations telles que l'image, le titre, le lieu et le prix, récupérées de la base de données.
 
 
 <img src="https://github.com/RACHADDOUlFIKAR/Developpement-Mobile-TP-I2A-/assets/97551741/807c5c90-8c43-4f85-92b9-64cbd1a5c417" width="300" />
