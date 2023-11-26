@@ -71,7 +71,7 @@ class _AddActivityPageState extends State<AddActivityPage> {
   }
 
   Future<void> saveDataToFirestore() async {
-    // Implement your data-saving logic here
+    
   }
 
   Future<void> uploadActivity(
@@ -102,7 +102,7 @@ class _AddActivityPageState extends State<AddActivityPage> {
       // Log values before uploading
       print(imageUrl);
 
-      // Replace 'your_collection_name' with the actual name of your Firestore collection
+     
       await FirebaseFirestore.instance.collection(collectionName).add({
         'title': title ?? '',
         'location': location ?? '',
@@ -293,7 +293,7 @@ class _AddActivityPageState extends State<AddActivityPage> {
                 numberOfPeopleController.text,
                 selectedImage,
               );
-              Navigator.pop(context); // Close the current screen
+              Navigator.pop(context); 
             } catch (e) {
               showDialog(
                 context: context,
