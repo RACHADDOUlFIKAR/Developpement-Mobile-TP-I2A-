@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265517926360",
+    "project_id": "tp1act",
+    "storage_bucket": "tp1act.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265517926360:android:99fccd10ea1937f02014ad",
+        "android_client_info": {
+          "package_name": "com.example.tpi2a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDscAL6Bac1kuxtekt-1o-1iUhNEZ0T8gQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
