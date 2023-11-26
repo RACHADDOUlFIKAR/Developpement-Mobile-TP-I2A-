@@ -22,7 +22,7 @@ En tant qu'utilisateur, je peux me connecter à l'application avec une interface
 
 ### 2.2. US#2 : Liste des activités
 
-Après connexion, l'utilisateur arrive sur la page des activités avec une BottomNavigationBar. Une liste déroulante affiche toutes les activités avec des détails tels que l'image, le titre, le lieu, et le prix. La liste est récupérée de la base de données.
+En conclusion, ce TP a stimulé la création d'une application MVP opérationnelle en incorporant des composants tels que l'intelligence artificielle, la qualité du code, le design, ainsi que des fonctionnalités additionnelles. Ces éléments reflètent les normes actuelles du développement d'applications mobiles.
 
 
 
