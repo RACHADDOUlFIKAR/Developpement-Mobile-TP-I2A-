@@ -17,7 +17,8 @@ En tant qu'utilisateur, je peux me connecter à l'application avec une interface
 
 <img src="https://github.com/RACHADDOUlFIKAR/Developpement-Mobile-TP-I2A-/assets/97551741/748a16df-3086-4a30-8e0d-5a996a0a00be" width="300" />
 
-<img src="https://github.com/RACHADDOUlFIKAR/Developpement-Mobile-TP-I2A-/assets/97551741/3ae0fe55-d9e0-4243-b988-5ec217aa559f" width="300" />
+<img src="https://github.com/RACHADDOUlFIKAR/Developpement-Mobile-TP-I2A-/assets/97551741/7b0a4865-cf28-40ba-9222-90cb0c66578a" width="300" />
+
 
 
 ### 2.2. US#2 : Liste des activités
@@ -78,4 +79,4 @@ En enrichissant notre application, nous avons intégré des fonctionnalités sup
 
 ### Conclusion
 
-Ce TP encourage le développement d'une application MVP fonctionnelle tout en intégrant des éléments tels que l'IA, la qualité du code, le design, reflétant ainsi les pratiques actuelles dans le domaine du développement d'applications mobiles.
+En conclusion, ce TP a stimulé la création d'une application MVP opérationnelle en incorporant des composants tels que l'intelligence artificielle, la qualité du code, le design, ainsi que des fonctionnalités additionnelles. Ces éléments reflètent les normes actuelles du développement d'applications mobiles.
